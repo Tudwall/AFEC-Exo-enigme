@@ -1,1 +1,5 @@
 Un prêtre met 3 secondes pour sonner quatre heures. Combien mettra-t-il de temps pour sonner midi?
+
+Il faut sonner 4 fois pour 4 heures il faut sonner 12 fois pour 12
+Autrement dit il faut sonner la cloche 3 fois plus longtemps pour midi que pour 4 heures
+donc je dirais que le prêtre sonnera la cloche pendant 9 secondes
